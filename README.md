@@ -5,30 +5,43 @@ Si quieres visualizar todas las máquinas de manera más cómoda puedes hacerlo 
 
 ## ÍNDICE
 
-### **Dockerlabs**
+### Dockerlabs
 
-[Máquina Pyred](Dockerlabs/Pyred/PYRED-WRITEUP.md)
-
-[Máquina Domain](Dockerlabs/Domain/DOMAIN-WRITEUP.md)
-
----
-
-### **Hack The Box**
-
-[Máquina Twomillion](Hackthebox/Twomillion/TWOMILLION-WRITEUP.md)
-
-[Máquina Cicada](Hackthebox/Cicada/CICADA-WRITEUP.md)
-
-[Máquina Validation](Hackthebox/Validation/VALIDATION-WRITEUP.md)
-
-[Máquina Hospital](Hackthebox/Hospital/HOSPITAL-WRITEUP.md)
-
-[Máquina Horizontall](Hackthebox/Horizontall/HORIZONTALL-WRITEUP.md)
+| Máquina   | Writeup                                   | Dificultad | SO |
+|----------|-------------------------------------------|------------|-----------------|
+| Pyred    | [Ver writeup](Dockerlabs/Pyred/PYRED-WRITEUP.md)   | 🟡 Medium  | 🐧 Linux       |
+| Domain   | [Ver writeup](Dockerlabs/Domain/DOMAIN-WRITEUP.md) | 🟡 Medium    | 🐧 Linux       |
 
 ---
 
-### **Vulnhub** 
+### Hack The Box
 
-[Máquina Symfonos1 + Symfonos2](Vulnhub/Symfonos1+Symfonos2/Symfonos1_Symfonos2.pdf)
+| Máquina        | Writeup                                                      | Dificultad | SO |
+|----------------|-------------------------------------------------------------|------------|-----------------|
+| Twomillion     | [Ver writeup](Hackthebox/Twomillion/TWOMILLION-WRITEUP.md) | 🟢 Easy    | 🐧 Linux       |
+| Cicada         | [Ver writeup](Hackthebox/Cicada/CICADA-WRITEUP.md)         | 🟢 Easy  | 🪟 Windows      |
+| Validation     | [Ver writeup](Hackthebox/Validation/VALIDATION-WRITEUP.md) | 🟢 Easy  | 🐧 Linux       |
+| Hospital       | [Ver writeup](Hackthebox/Hospital/HOSPITAL-WRITEUP.md)     | 🟡 Medium   | 🪟 Windows     |
+| Horizontall    | [Ver writeup](Hackthebox/Horizontall/HORIZONTALL-WRITEUP.md) | 🟢 Easy | 🐧 Linux       |
+
+---
+
+### VulnHub
+
+| Máquina                 | Writeup                                                                    | Dificultad | SO |
+|-------------------------|----------------------------------------------------------------------------|------------|-----------------|
+| Symfonos 1 + Symfonos 2 | [Ver writeup](Vulnhub/Symfonos1+Symfonos2/Symfonos1_Symfonos2.pdf)       | 🟡 Medium  | 🐧 Linux       |
+
+---
+
+### **PortSwigger**
+
+#### SQL Injection
+
+| Lab | Writeup | Dificultad | Plataforma |
+|-----|---------|------------|------------|
+| SQLI vulnerability in WHERE clause allowing retrieval of hidden data | [Ver writeup](PortSwigger/SQL-Injection/SQL-injection-vulnerability-in-WHERE-clause-allowing-retrieval-of-hidden-data.md) | 🟢 Easy | 🌐 Web |
+
+
 
 
