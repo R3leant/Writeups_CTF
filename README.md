@@ -40,7 +40,8 @@ Si quieres visualizar todas las máquinas de manera más cómoda puedes hacerlo 
 
 | Lab | Writeup | Dificultad | Plataforma |
 |-----|---------|------------|------------|
-| SQLI vulnerability in WHERE clause allowing retrieval of hidden data | [Ver writeup](PortSwigger/SQL-Injection/SQL-injection-vulnerability-in-WHERE-clause-allowing-retrieval-of-hidden-data.md) | 🟢 Easy | 🌐 Web |
+| SQLI vulnerability in WHERE clause allowing retrieval of hidden data | [Ver writeup](PortSwigger/SQL-Injection/1.SQL-injection-vulnerability-in-WHERE-clause-allowing-retrieval-of-hidden-data.md) | 🟢 Easy | 🌐 Web |
+| SQLI vulnerability allowing login bypass | [Ver writeup](PortSwigger/SQL-Injection/2.SQL-injection-vulnerability-allowing-login-bypass.md) | 🟢 Easy | 🌐 Web |
 
 
 
