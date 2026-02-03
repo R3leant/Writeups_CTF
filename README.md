@@ -1,6 +1,6 @@
 # 🚀 CTF Writeups
 
-Bienvenido a mi repositorio de writeups de máquinas de CTF. Aquí encontrarás soluciones detalladas para diversas plataformas, con el objetivo de documentar metodologías, herramientas y técnicas utilizadas en cada reto.
+Bienvenido a mi repositorio de writeups de máquinas de CTF y retos. Aquí encontrarás soluciones detalladas para diversas plataformas, con el objetivo de documentar metodologías, herramientas y técnicas utilizadas en cada reto.
 Si quieres visualizar todas las máquinas de manera más cómoda puedes hacerlo a través de mi excel: [Enlace Excel](https://docs.google.com/spreadsheets/d/1PmbyRIM1k40ftitqTyomxO6cWhZ3VUHNxcaMwrsF7wg/edit?usp=sharing)
 
 ## ÍNDICE
