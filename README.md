@@ -38,12 +38,13 @@ Si quieres visualizar todas las máquinas de manera más cómoda puedes hacerlo 
 
 #### SQL Injection
 
-| Lab | Writeup | Dificultad | Plataforma |
-|-----|---------|------------|------------|
-| SQLI vulnerability in WHERE clause allowing retrieval of hidden data | [Ver writeup](PortSwigger/SQL-Injection/1.SQL-injection-vulnerability-in-WHERE-clause-allowing-retrieval-of-hidden-data.md) | 🟢 Easy | 🌐 Web |
+| Lab | Writeup | Dificultad |
+|-----|---------|------------|
+| SQLI vulnerability in WHERE clause allowing retrieval of hidden data | [Ver writeup](PortSwigger/SQL-Injection/1.SQL-injection-vulnerability-in-WHERE-clause-allowing-retrieval-of-hidden-data.md) | 🟢 Easy 
 | SQLI vulnerability allowing login bypass | [Ver writeup](PortSwigger/SQL-Injection/2.SQL-injection-vulnerability-allowing-login-bypass.md) | 🟢 Easy | 🌐 Web |
-| SQLI UNION attack, determining the number of columns returned by the query | [Ver writeup](PortSwigger/SQL-Injection/3.SQLI-UNION-attack-determining-the-number-of-columns-returned-by-the-query.md) | 🟢 Easy | 🌐 Web |
-| SQLI UNION attack finding a column containing text| [Ver writeup](PortSwigger/SQL-Injection/4.SQLI-UNION-attack-finding-a-column-containing-text.md) | 🟢 Easy | 🌐 Web |
+| SQLI UNION attack, determining the number of columns returned by the query | [Ver writeup](PortSwigger/SQL-Injection/3.SQLI-UNION-attack-determining-the-number-of-columns-returned-by-the-query.md) | 🟢 Easy
+| SQLI UNION attack finding a column containing text| [Ver writeup](PortSwigger/SQL-Injection/4.SQLI-UNION-attack-finding-a-column-containing-text.md) | 🟢 Easy
+| SQLI UNION attack retrieving data from other tables| [Ver writeup](PortSwigger/SQL-Injection/5.SQLI-UNION-attack-retrieving-data-from-other-tables.md) | 🟡 Medium 
 
 
 
