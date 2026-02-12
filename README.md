@@ -46,6 +46,8 @@ Si quieres visualizar todas las máquinas de manera más cómoda puedes hacerlo 
 | SQLI UNION attack finding a column containing text| [Ver writeup](PortSwigger/SQL-Injection/4.SQLI-UNION-attack-finding-a-column-containing-text.md) | 🟢 Easy
 | SQLI UNION attack retrieving data from other tables| [Ver writeup](PortSwigger/SQL-Injection/5.SQLI-UNION-attack-retrieving-data-from-other-tables.md) | 🟡 Medium
 | SQLI UNION attack, retrieving multiple values in a single column| [Ver writeup](PortSwigger/SQL-Injection/6.SQLI-UNION-attack-retrieving-multiple-values-in-a-single-column.md) | 🟡 Medium 
+| SQLI attack, querying the database type and version on Oracle| [Ver writeup](PortSwigger/SQL-Injection/7.SQLI-attack-querying-the-database-type-and-version-on-Oracle.md) | 🟡 Medium 
+| SQLi attack, querying the database type and version on MySQL and Microsoft| [Ver writeup](PortSwigger/SQL-Injection/8.SQLI-attack-querying-the-database-type-and-version-on-MySQL-and-Microsoft.md) | 🟡 Medium 
 
 
 
