@@ -17,7 +17,7 @@ usuario no filtrados directamente en una consulta, permitiendo ver datos privado
 | SQLi attack, querying the database type and version on MySQL and Microsoft| [Ver writeup](PortSwigger/SQL-Injection/08.SQLI-attack-querying-the-database-type-and-version-on-MySQL-and-Microsoft.md) | 🟡 Medium 
 | SQL injection attack, listing the database contents on non-Oracle databases| [Ver writeup](PortSwigger/SQL-Injection/09.SQLI-attack-listing-the-database-contents-on-non-Oracle-databases.md) | 🟡 Medium 
 | SQL injection attack, listing the database contents on Oracle| [Ver writeup](PortSwigger/SQL-Injection/10.SQLI-attack-listing-the-database-contents-on-Oracle.md) | 🟡 Medium 
-| Blind SQL injection with conditional responses| [Ver writeup](PortSwigger/SQL-Injection/11.Blind-SQL-injection-with-conditional-responses.md) | 🔴 Hard 
+| Blind SQL injection with conditional responses| [Ver writeup](11.Blind-SQL-injection-with-conditional-responses.md) | 🔴 Hard 
 
 ### Prevención
 
