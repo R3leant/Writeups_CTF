@@ -19,7 +19,7 @@ usuario no filtrados directamente en una consulta, permitiendo ver datos privado
 | SQL injection attack, listing the database contents on Oracle| [Ver writeup](10.SQLI-attack-listing-the-database-contents-on-Oracle.md) | 🟡 Medium 
 | Blind SQL injection with conditional responses| [Ver writeup](11.Blind-SQL-injection-with-conditional-responses.md) | 🔴 Hard 
 | Blind SQL injection with conditional errors | [Ver Writeup](12.Blind-SQL-injection-with-conditional-errors.md) | 🔴 Hard 
-| Blind SQL injection with time delays | [Ver Writeup](13.Blind-SQL-injection-with-conditional-errors.md) | 🔴 Hard 
+| Blind SQL injection with time delays | [Ver Writeup](13.Blind-SQL-Injection-with-time-delays.md) | 🔴 Hard 
 
 ### Prevención
 
