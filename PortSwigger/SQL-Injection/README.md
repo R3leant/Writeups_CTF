@@ -28,6 +28,6 @@ Para mitigar estas vulnerabilidades, se recomienda:
 
 - Sentencias Preparadas (Prepared Statements): Utilizar consultas parametrizadas.
 
-- Validación de Entradas: Implementar "allow-lists" para los datos del usuario.
+- Validación de Entradas: no introducir directamente el input del usuario en la consulta.
 
 - Principio de Menor Privilegio: Limitar los permisos del usuario de la base de datos que conecta con la aplicación.
